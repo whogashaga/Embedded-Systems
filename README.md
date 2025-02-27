@@ -1,1 +1,1 @@
-# JOS
+# JOS Labs
