@@ -254,3 +254,7 @@ $1 = (int *) 0x7fffffffdaec
 0x7fffffffdaec: 0x00000032
 ```
 
+# Reference
+
+[Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/)
+
